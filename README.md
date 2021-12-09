@@ -1,3 +1,3 @@
 # demo-git-repo
 
-demo git file
+new demo git file
